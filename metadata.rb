@@ -1,3 +1,4 @@
+name             'ohai-private_ip'
 maintainer       "Wanelo.com"
 maintainer_email "ops@wanelo.com"
 license          "Apache 2.0"
